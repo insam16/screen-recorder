@@ -1,0 +1,9 @@
+# 녹화
+폴더 열기
+빈 곳 우클릭
+터미널에서 열기
+powershell -NoProfile -ExecutionPolicy Bypass -File record.ps1
+위 명령어 붙여넣기, 엔터
+
+# 종료
+q
